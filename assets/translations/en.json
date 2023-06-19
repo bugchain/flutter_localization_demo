@@ -1,0 +1,16 @@
+{
+  "hello" : "Hello",
+  "th" : "TH",
+  "en" : "EN",
+  "welcome_to_app" : "Welcome to localization Application",
+  "on_boarding_title_1" : "Order Your Foods",
+  "on_boarding_description_1" : "Now you can order your food any time right from your mobile. Now you can order your food any time right from your mobile.",
+  "on_boarding_title_2" : "Cooking Safe Food",
+  "on_boarding_description_2" : "We are maintain safety and We keep clean while making food. We are maintain safety and We keep clean while making food.",
+  "on_boarding_title_3" : "Quick Delivery",
+  "on_boarding_description_3" : "Orders your favorite meals will be immediately deliver. Orders your favorite meals will be immediately deliver.",
+  "get_start" : "Get Start",
+  "select_language" : "Select Language",
+  "thai_language" : "ภาษาไทย",
+  "english_language" : "English"
+}
